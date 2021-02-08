@@ -17,7 +17,8 @@ pip3 install wikipedia
   
   python3 run.py
 
-Give It Voice Commands:
+- Give It Voice Commands:
+
   play        song_name
   search      what_do_you_want_to_search_for
   wikipedia   wikipedia search
