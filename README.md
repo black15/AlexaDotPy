@@ -15,16 +15,16 @@ pip3 install wikipedia
 # Usage
 - Start The Program:
   
-  python3 run.py
+      python3 run.py
 
 - Give It Voice Commands:
 
-  play        song_name
-  search      what_do_you_want_to_search_for
-  wikipedia   wikipedia search
-  wallpaper   wallpaper_name
-  time        (Will Return Current Date & Time)
-  exit/quit   exit the program
+      play        song_name
+      search      what_do_you_want_to_search_for
+      wikipedia   wikipedia search
+      wallpaper   wallpaper_name
+      time        (Will Return Current Date & Time)
+      exit/quit   exit the program
 
 # CONTACT
     FACEBOOK    :   https://www.facebook.com/unknownkid.18
