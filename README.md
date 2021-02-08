@@ -1,16 +1,16 @@
 # PyAssistance
-Python Voice Assistance Using SpeechRecognition Module
+    Python Voice Assistance Using SpeechRecognition Module
 
 # Requirements
-- Python3
-- Linux
+    - Python3
+    - Linux
 
 # Installation
-pip3 install speech_recognition
-pip3 install playsound
-sudo apt install python3-pyaudio
-pip3 install gtts
-pip3 install wikipedia
+    pip3 install speech_recognition
+    pip3 install playsound
+    sudo apt install python3-pyaudio
+    pip3 install gtts
+    pip3 install wikipedia
 
 # Usage
 - Start The Program:
